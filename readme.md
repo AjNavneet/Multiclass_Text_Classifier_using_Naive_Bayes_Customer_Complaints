@@ -59,19 +59,3 @@ The dataset contains more than two million customer complaints about consumer fi
 6. **requirements.txt**: Lists required libraries with respective versions. Install them using `pip install -r requirements.txt`.
 
 ---
-
-## Key Concepts Explored
-
-1. Understanding the problem statement and the approach
-2. Multiclass Classification
-3. aive Bayes Algorithm
-4. Performing tokenization using `word_tokenization` from the nltk library
-5. Removing stopwords
-6. Removing punctuations
-7. Word Count and count plots
-8. Class mapping
-9. Building Naive Bayes model
-10. Evaluating Performance
-11. Predictions on new reviews
-
----
